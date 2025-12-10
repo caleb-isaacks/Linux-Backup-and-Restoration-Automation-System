@@ -18,7 +18,6 @@ The goal is to create a secure, reliable, and fully auditable backup pipeline su
 ## Prerequisites
 - Linux system (Debian/Ubuntu recommended)
 - Root privileges (required for backing up system directories)
-- GnuPG installed
 - `/backups` directory created with appropriate permissions
 
 ---
